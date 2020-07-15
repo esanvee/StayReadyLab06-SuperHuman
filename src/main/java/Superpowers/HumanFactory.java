@@ -15,6 +15,7 @@ public class HumanFactory {
         SHuman1.setGender("male");
         SHuman2.usePower();
         SHuman3.setAge(25);
+        SHuman3.usePower();
 
         Human human1 = new Human();
         Human human2 = new Human();
